@@ -42,7 +42,7 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 typedef union {
-	uint8_t buff[128];
+	uint8_t buff[4];
 	int32_t value;
 } packet_buffer_t;
 /* USER CODE END PTD */
