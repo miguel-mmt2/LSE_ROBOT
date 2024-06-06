@@ -43,6 +43,7 @@ This project is part of the Embedded Systems course at the University of Coimbra
 The primary objective of this project is to create a robust, efficient, and reliable search and rescue robot. The robot uses various sensors for navigation, obstacle detection, and target identification. It communicates with a web server for real-time control and monitoring.
 
 ## System Engineering V Diagram
+![V Diagram](https://github.com/miguel-mmt2/LSE_ROBOT/assets/69222548/1b8be864-49d7-4c8f-b111-64e3503b6db5)
 
 ## Tasks and Architecture
 
