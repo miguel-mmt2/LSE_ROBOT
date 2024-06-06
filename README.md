@@ -44,8 +44,6 @@ The primary objective of this project is to create a robust, efficient, and reli
 
 ## System Engineering V Diagram
 
-![System Engineering V Diagram](path_to_v_diagram_image)
-
 ## Tasks and Architecture
 
 ### Requirements Analysis
